@@ -6,8 +6,10 @@ info:
   contact:
     name: Duck5557474
     email: duck5557474@gmail.com
+  license:
+    name: BirdLine Games (in compliance of Discord.com)
 servers:
-  - url: 'http://localhost:3000'
+  - url: 'http://localhost:62357'
     description: 'BirdLine System '
 paths: {}
 components:

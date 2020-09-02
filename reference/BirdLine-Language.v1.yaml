@@ -10,6 +10,7 @@ info:
     email: duck5557474@gmail.com
 servers:
   - url: 'http://localhost:822000'
+    description: Language.BirdLine
 paths: {}
 components:
   schemas: {}

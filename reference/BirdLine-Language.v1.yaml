@@ -8,6 +8,7 @@ info:
   contact:
     name: Duck5557474
     email: duck5557474@gmail.com
+  description: New Program Language of BirdLine Games (Discord Bot)
 servers:
   - url: 'http://localhost:822000'
     description: Language.BirdLine

@@ -1,0 +1,3 @@
+if "TOKEN" = True
+  print("Online")
+  

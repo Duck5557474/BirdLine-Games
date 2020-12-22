@@ -1,0 +1,19 @@
+openapi: 3.0.0
+info:
+  title: BirdLine Language
+  version: '1.0'
+  license:
+    name: BirdLine Games
+    url: Games.BirdLine.app
+  contact:
+    name: Duck5557474
+    email: duck5557474@gmail.com
+  description: New Program Language of BirdLine Games (Discord Bot)
+servers:
+  - url: 'http://localhost:822000'
+    description: Language.BirdLine
+paths: {}
+components:
+  schemas: {}
+  securitySchemes: {}
+ 

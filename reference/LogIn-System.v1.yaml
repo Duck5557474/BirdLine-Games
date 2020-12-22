@@ -1,0 +1,18 @@
+openapi: 3.0.0
+info:
+  title: Login System
+  version: '1.0'
+  description: 1.1 Login Website Changelog
+  contact:
+    name: Duck5557474
+    email: duck5557474@gmail.com
+  license:
+    name: BirdLine Games (in compliance of Discord.com)
+servers:
+  - url: 'http://localhost:62357'
+    description: 'BirdLine System '
+paths: {}
+components:
+  schemas: {}
+  securitySchemes: {}
+security: []
